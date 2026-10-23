@@ -78,17 +78,16 @@ Output:
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 730 ms (beats 19.19%)  
-**Memory:** 0B (beats 100.00%)  
-**Submitted:** 2026-10-23T17:19:11.887Z  
+**Runtime:** 140 ms  
+**Memory:** 0B  
+**Submitted:** 2026-10-23T17:17:57.048Z  
 
 ```sql
 # Write your MySQL query statement below
 select name as Customers from Customers 
-where id not in (
-    select customerID
-    from Orders
-);
+left join Orders
+on Customers.id=Orders.id
+where orders.id is NUll;
 ```
 
 ---
