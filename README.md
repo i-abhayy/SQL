@@ -1,2 +1,50 @@
-# SQL
-This repository contains my complete SQL learning journey, including all tasks from beginner to advanced level. It covers basic queries, filtering, sorting, joins, aggregation, and database operations with hands-on practice. A structured collection showcasing my SQL skills from start to end.
+<div align="center">
+
+# 🧠 Coding Solutions
+
+![Total Solved](https://img.shields.io/badge/Total_Solved-14-blue?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-3_days-orange?style=for-the-badge)
+![Last Synced](https://img.shields.io/badge/Last_Synced-10--23--2026-green?style=for-the-badge)
+
+> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
+
+</div>
+
+---
+
+## 📊 Stats
+
+| Difficulty | Solved |
+|:---:|:---:|
+| 🟢 Easy | **9** |
+| 🟡 Medium | **2** |
+| 🔴 Hard | **0** |
+| **Total** | **14** |
+
+## 🛠️ Languages
+
+| Language | Solutions |
+|:---:|:---:|
+| Java | **12** |
+| SQL | **2** |
+
+## 📂 Repository Structure
+
+```
+📦 coding-solutions/
+├── leetcode/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+├── hackerrank/
+├── codechef/
+└── gfg/
+```
+
+---
+
+<div align="center">
+
+*Last updated: 2026-10-23* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
+
+</div>
